@@ -14,22 +14,24 @@ class Profile extends Component {
                   alt="Mqondisi Gumede"
                 />
                 <Link className="btn-floating halfway-fab waves-effect wave-light red">
-                  <i className="material-icons activator">more_vert</i>
+                  <i className="material-icons activator">...</i>
                 </Link>
               </div>
               <div className="card-content">
-                <span className="catd-title activator grey-text text-darken-4">
-                  <strong>MQONDISI GUMEDE</strong>
+                <span className="card-title activator grey-text text-darken-4">
+                <p>
+                <strong>MQONDISI GUMEDE</strong>
+                </p>
                 </span>
                 <p>
-                  <strong>Information Technology</strong>
+                  Information Technology
                 </p>
               </div>
 
               <div className="card-reveal">
                 <span className="card-title grey-text text-darken-4">
                   Follow me
-                  <i className="material-icons right">close</i>
+                  <i className="material-icons right">x</i>
                 </span>
                 <p className="flex-container">
                   <i className="fab fa-google-plus-g grey-text text-darken-4 social-style"></i>

@@ -10,7 +10,9 @@ export default class About extends Component {
                             <strong>ABOUT ME</strong>
                         </h6>
                             <p className="grey-text">
-                            I am Mqondisi Thabiso Gumede. I'm the best in the world.
+                            I’m a well-composed and disciplined individual who is driven and motivated to work hard to achieve my goals. 
+                            I believe in hard work, attentive listening and learning so that the necessary skills and experiences can be gained. 
+                            We limit ourselves and anything is possible as long as the mind can conceive it.
                             </p>
                     </div>
                     <div className="card-action">
@@ -20,7 +22,7 @@ export default class About extends Component {
                         <div className="row mt">
                             <div className="col s12 m6 l6 cl6">
                                 <p>
-                                    <strong>Address:</strong> Oppirif 27
+                                    <strong>Address:</strong> 11A Barbet Bow Richardsbaai 3900
                                 </p>
                                 <p>
                                     <strong>Email:</strong> mqondi.gumede@gmail.com
